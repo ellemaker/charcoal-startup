@@ -1,7 +1,7 @@
 {
-  "name": "z-theme",
+  "name": "charcoal-startup",
   "version": "1.0.0",
-  "description": "wordpress starter theme",
+  "description": "html/css startup template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
